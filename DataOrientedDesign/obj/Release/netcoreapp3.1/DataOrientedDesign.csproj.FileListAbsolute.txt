@@ -1,0 +1,12 @@
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Release\netcoreapp3.1\DataOrientedDesign.exe
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Release\netcoreapp3.1\DataOrientedDesign.deps.json
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Release\netcoreapp3.1\DataOrientedDesign.runtimeconfig.json
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Release\netcoreapp3.1\DataOrientedDesign.runtimeconfig.dev.json
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Release\netcoreapp3.1\DataOrientedDesign.dll
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Release\netcoreapp3.1\DataOrientedDesign.pdb
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Release\netcoreapp3.1\DataOrientedDesign.AssemblyInfoInputs.cache
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Release\netcoreapp3.1\DataOrientedDesign.AssemblyInfo.cs
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Release\netcoreapp3.1\DataOrientedDesign.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Release\netcoreapp3.1\DataOrientedDesign.dll
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Release\netcoreapp3.1\DataOrientedDesign.pdb
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Release\netcoreapp3.1\DataOrientedDesign.genruntimeconfig.cache

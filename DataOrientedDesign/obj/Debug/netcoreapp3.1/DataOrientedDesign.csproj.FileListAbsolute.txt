@@ -1,0 +1,26 @@
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.exe
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.deps.json
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.runtimeconfig.json
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.runtimeconfig.dev.json
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.dll
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.pdb
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.csprojAssemblyReference.cache
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.AssemblyInfoInputs.cache
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.AssemblyInfo.cs
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.csproj.CoreCompileInputs.cache
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.dll
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.pdb
+D:\Lukas\FHTW\4. Semester\SWP\UE6 Data Oriented Design\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.genruntimeconfig.cache
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.exe
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.deps.json
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.runtimeconfig.json
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.runtimeconfig.dev.json
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.dll
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\bin\Debug\netcoreapp3.1\DataOrientedDesign.pdb
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.csprojAssemblyReference.cache
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.AssemblyInfoInputs.cache
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.AssemblyInfo.cs
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.csproj.CoreCompileInputs.cache
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.dll
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.pdb
+C:\Users\marvi\Studium\SS2021\SWP\DataOrientedDesign\DataOrientedDesign\DataOrientedDesign\obj\Debug\netcoreapp3.1\DataOrientedDesign.genruntimeconfig.cache
